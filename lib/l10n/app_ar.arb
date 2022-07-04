@@ -1,0 +1,19 @@
+{
+  "todolist": "قائمة المهام",
+  "addnewtask": "إضافة مهمة جديدة",
+  "title": "العنوان",
+  "description": "الوصف",
+  "taskdate": "تاريخ المهمة",
+  "addtask": "اضافة المهمة",
+  "loading": "تحميل",
+  "thetaskhasbeensuccadded": "تمت إضافة المهمة بنجاح",
+  "ok": "حسنا",
+  "delete": "حذف",
+  "language": "اللغة",
+  "theme": "السمة",
+  "ligth": "فاتح",
+  "dark": "غامق",
+  "edittask": "تعديل المهة",
+  "savingchanges": "حفظ التغييرات",
+  "therewasanerroraddingthetaskpleasetryagain": "حدث خطأ أثناء إضافة المهمة ، يرجى المحاولة مرة أخرى"
+}

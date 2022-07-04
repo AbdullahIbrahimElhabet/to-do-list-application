@@ -1,0 +1,19 @@
+{
+  "todolist": "To Do List",
+  "addnewtask": "Add new Task",
+  "title": "Title",
+  "description": "Description",
+  "taskdate": "Task Date",
+  "addtask": "Add Task",
+  "loading": "Loading",
+  "thetaskhasbeensuccadded": "The task has been successfully added",
+  "ok": "Ok",
+  "delete": "Delete",
+  "language": "Language",
+  "theme": "Theme",
+  "ligth": "Ligth",
+  "dark": "Dark",
+  "edittask": "Edit Task",
+  "savingchanges": "Saving changes",
+  "therewasanerroraddingthetaskpleasetryagain": "There was an error adding the task, please try again"
+}
