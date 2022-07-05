@@ -15,5 +15,6 @@
   "dark": "Dark",
   "edittask": "Edit Task",
   "savingchanges": "Saving changes",
-  "therewasanerroraddingthetaskpleasetryagain": "There was an error adding the task, please try again"
+  "therewasanerroraddingthetaskpleasetryagain": "There was an error adding the task, please try again",
+  "done": "Done!"
 }

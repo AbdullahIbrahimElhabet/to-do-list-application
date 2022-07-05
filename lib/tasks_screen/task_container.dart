@@ -91,7 +91,7 @@ class _TaskContainerState extends State<TaskContainer> {
                     },
                     child: widget.task.isDone
                         ? Text(
-                            "Done!",
+                      AppLocalizations.of(context)!.done,
                             style: Theme.of(context).textTheme.subtitle2,
                           )
                         : Container(

@@ -15,5 +15,6 @@
   "dark": "غامق",
   "edittask": "تعديل المهة",
   "savingchanges": "حفظ التغييرات",
-  "therewasanerroraddingthetaskpleasetryagain": "حدث خطأ أثناء إضافة المهمة ، يرجى المحاولة مرة أخرى"
+  "therewasanerroraddingthetaskpleasetryagain": "حدث خطأ أثناء إضافة المهمة ، يرجى المحاولة مرة أخرى",
+  "done": "تم!"
 }
